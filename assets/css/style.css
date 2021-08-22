@@ -409,6 +409,14 @@ section {
   background: none;
   border-radius: 0;
 }
+.skills h5{
+  font-size: 16px;
+  background: #e4edf9;
+  padding: 5px 15px;
+  display: inline-block;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
 
 .skills .progress .skill {
   padding: 0;
